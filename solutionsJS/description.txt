@@ -1,0 +1,8 @@
+                Algo problem and description.
+                Solutions are inside of index.js file
+Day 1 Jan 23 Easy
+
+
+Questions
+
+
