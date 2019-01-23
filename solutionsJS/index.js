@@ -28,3 +28,11 @@
 //     }
 // }
 // prime(0)
+
+//3) Write a program to subtract two integers without using Minus (-) operator
+
+// const substract = (num1, num2) => {
+//     const result = num1 + (~num2 + 1)
+//     return console.log(`${result}`);
+// }
+// substract(12, 3)
