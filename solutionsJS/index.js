@@ -36,3 +36,7 @@
 //     return console.log(`${result}`);
 // }
 // substract(12, 3)
+
+// 4) Write a program to find remainder of two numbers without using modulus (%) operator
+
+
