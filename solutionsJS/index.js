@@ -40,3 +40,7 @@
 // 4) Write a program to find remainder of two numbers without using modulus (%) operator
 
 
+const reminder = () => {
+    console.log('hello')
+}
+reminder();
